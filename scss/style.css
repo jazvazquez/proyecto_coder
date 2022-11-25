@@ -33,6 +33,14 @@ body {
   height: 90px;
 }
 
+.footer_ubicacion {
+  margin-top: 150px;
+}
+
+.footer_contactanos {
+  margin-top: 350px;
+}
+
 .footer h2 {
   text-align: center;
   color: white;
@@ -56,6 +64,11 @@ body {
 
 .ubicacion p {
   margin: 20px;
+  justify-content: center;
+}
+
+.card {
+  text-align: center;
   justify-content: center;
 }
 
